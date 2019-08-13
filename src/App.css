@@ -10,4 +10,5 @@ a{
 
 *{
     box-sizing: border-box;
+    border: none;
 }
